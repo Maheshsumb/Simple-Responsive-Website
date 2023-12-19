@@ -13,7 +13,7 @@ Welcome to the Simple Responsive Website project! This project is a straightforw
 To get started with this project, simply clone the repository to your local machine or download the ZIP file. You can then customize the HTML and CSS files to fit your specific needs.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Maheshsumb/Simple-Responsive-Website
 ```
 
 ## Features
